@@ -1,7 +1,7 @@
 {
   "name": "expo-three",
   "version": "3.0.0-alpha.8",
-  "description": "Utilities for using THREE.js on Expo",
+  "description": "Utilities for using THREE.js on Expo Forked by Adriaan Balt",
   "files": [
     "lib"
   ],
